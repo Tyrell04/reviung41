@@ -23,11 +23,6 @@
             hold-trigger-on-release;
         };
 
-        MKP: MKP {
-            compatible = "zmk,behavior-mouse-key-press";
-            label = "MKP";
-            #binding-cells = <1>;
-        };
     };
 
     keymap {
